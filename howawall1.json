@@ -1,7 +1,7 @@
 {"MayData":{
   "AdsCountroller":{ 
       
-       "Applovin_Case":false,
+       "Applovin_Case":true,
        "Applovin_Banner":"afc106cac6c85186",
        "Applovin_merc":"4b76c0d54ef8f99a",
        "Applovin_Inter":"2cdfc0eb5e3fc1d8",
